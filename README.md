@@ -4,5 +4,4 @@
 - 💞️ I’m looking to collaborate on unique and interesting projects
 - 📫 Reach me on amit.svm08@gmail.com or call +91-9044628606
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its-amit-pandey)](https://git.io/streak-stats)
 
